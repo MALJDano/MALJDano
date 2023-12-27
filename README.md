@@ -20,9 +20,8 @@
 - [Instagram](https://www.instagram.com/kalatnigeli/)
 
 ##
-
 ## Git commands: Basics
-**1. git init**
+**1. git init** <br />
     __What it does:__ Starts a new version control repository.
     __When to use it:__ When you're starting a new project and want to use Git for version control.
     __Example:__ git init
