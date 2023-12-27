@@ -22,36 +22,36 @@
 ##
 ## Git commands: Basics
 **1. git init** <br />
-    __What it does:__ Starts a new version control repository.
-    __When to use it:__ When you're starting a new project and want to use Git for version control.
-    __Example:__ git init
+    __What it does:__ Starts a new version control repository.<br />
+    __When to use it:__ When you're starting a new project and want to use Git for version control.<br />
+    __Example:__ git init <br /><br />
 
-**2. git clone**
-    __What it does:__ Copies a repository from the internet to your computer.
-    __When to use it:__ When you want to download a project from a website (like GitHub) to your computer.
-    __Example:__ git clone https://github.com/example/repository.git
+**2. git clone**<br />
+    __What it does:__ Copies a repository from the internet to your computer.<br />
+    __When to use it:__ When you want to download a project from a website (like GitHub) to your computer.<br />
+    __Example:__ git clone https://github.com/example/repository.git<br /><br />
 
-**3. git add**
-    __What it does:__ Adds changes to the list of things Git will save.
-    __When to use it:__ After making changes to your project, you want to save them in Git.
-    __Example:__ git add file.txt
+**3. git add**<br />
+    __What it does:__ Adds changes to the list of things Git will save.<br />
+    __When to use it:__ After making changes to your project, you want to save them in Git.<br />
+    __Example:__ git add file.txt<br /><br />
 
-**4. git commit**
-    __What it does:__ Saves your changes into Git as a "checkpoint" you can return to.
-    __When to use it:__ After adding changes, you're ready to save them officially.
-    __Example:__ git commit -m "Add initial version of file.txt"
+**4. git commit**<br />
+    __What it does:__ Saves your changes into Git as a "checkpoint" you can return to.<br />
+    __When to use it:__ After adding changes, you're ready to save them officially.<br />
+    __Example:__ git commit -m "Add initial version of file.txt"<br /><br />
 
-**5. git push**
-    __What it does:__ Uploads your saved changes to the internet.
-    __When to use it:__ When you're ready to share your changes with others on platforms like GitHub.
-    __Example:__ git push origin main
+**5. git push**<br />
+    __What it does:__ Uploads your saved changes to the internet.<br />
+    __When to use it:__ When you're ready to share your changes with others on platforms like GitHub.<br />
+    __Example:__ git push origin main<br /><br />
 
-**6. git pull**
-    __What it does:__ Downloads changes from the internet to your computer.
-    __When to use it:__ When others have made changes online, and you want to update your local copy.
-    __Example:__ git pull origin main
+**6. git pull**<br />
+    __What it does:__ Downloads changes from the internet to your computer.<br />
+    __When to use it:__ When others have made changes online, and you want to update your local copy.<br />
+    __Example:__ git pull origin main<br /><br />
 
-**7. git status**
-    __What it does:__ Shows you what changes you've made that haven't been saved yet.
-    __When to use it:__ When you want to see the current state of your project.
-    __Example:__ git status
+**7. git status**<br />
+    __What it does:__ Shows you what changes you've made that haven't been saved yet.<br />
+    __When to use it:__ When you want to see the current state of your project.<br />
+    __Example:__ git status<br /><br />
