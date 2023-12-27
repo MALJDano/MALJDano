@@ -19,6 +19,5 @@ I enjoy exploring the intersection of technology and creativity in the world of 
 ## 📫 Connect with Me
 - [Instagram](https://www.instagram.com/kalatnigeli/)
 
-
-
-TEST
+## Contact
+- basta
