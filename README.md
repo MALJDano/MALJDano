@@ -19,6 +19,9 @@
 ## 📫 Connect with Me
    [![Instagram](https://img.shields.io/badge/Follow-kalatnigeli-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kalatnigeli/)
 
+    [![Microsoft Teams](https://img.shields.io/badge/Message-MS_Teams-E4405F?style=for-the-badge&logo=Microsoft-Teams)](2022maljdao@live.mcl.edu.ph)
+      
+
 ##
 ## Git commands: Basics
 **1. git init** <br />
