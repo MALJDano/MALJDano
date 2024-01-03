@@ -25,36 +25,36 @@
 
 ## Git Cheat Sheet: Basics
 **1. git init** <br />
-    __What it does:__ Starts a new version control repository.<br />
-    __When to use it:__ When you're starting a new project and want to use Git for version control.<br />
-    __Example:__ git init <br /><br />
+    *What it does:* Starts a new version control repository.<br />
+    *When to use it:* When you're starting a new project and want to use Git for version control.<br />
+    *Example:* git init <br /><br />
 
 **2. git clone**<br />
-    __What it does:__ Copies a repository from the internet to your computer.<br />
-    __When to use it:__ When you want to download a project from a website (like GitHub) to your computer.<br />
-    __Example:__ git clone https://github.com/example/repository.git<br /><br />
+    *What it does:* Copies a repository from the internet to your computer.<br />
+    *When to use it:* When you want to download a project from a website (like GitHub) to your computer.<br />
+    *Example:* git clone https://github.com/example/repository.git<br /><br />
 
 **3. git add**<br />
-    __What it does:__ Adds changes to the list of things Git will save.<br />
-    __When to use it:__ After making changes to your project, you want to save them in Git.<br />
-    __Example:__ git add file.txt<br /><br />
+    *What it does:* Adds changes to the list of things Git will save.<br />
+    *When to use it:* After making changes to your project, you want to save them in Git.<br />
+    *Example:* git add file.txt<br /><br />
 
 **4. git commit**<br />
-    __What it does:__ Saves your changes into Git as a "checkpoint" you can return to.<br />
-    __When to use it:__ After adding changes, you're ready to save them officially.<br />
-    __Example:__ git commit -m "Add initial version of file.txt"<br /><br />
+    *What it does:* Saves your changes into Git as a "checkpoint" you can return to.<br />
+    *When to use it:* After adding changes, you're ready to save them officially.<br />
+    *Example:* git commit -m "Add initial version of file.txt"<br /><br />
 
 **5. git push**<br />
-    __What it does:__ Uploads your saved changes to the internet.<br />
-    __When to use it:__ When you're ready to share your changes with others on platforms like GitHub.<br />
-    __Example:__ git push origin main<br /><br />
+    *What it does:* Uploads your saved changes to the internet.<br />
+    *When to use it:* When you're ready to share your changes with others on platforms like GitHub.<br />
+    *Example:* git push origin main<br /><br />
 
 **6. git pull**<br />
-    __What it does:__ Downloads changes from the internet to your computer.<br />
-    __When to use it:__ When others have made changes online, and you want to update your local copy.<br />
-    __Example:__ git pull origin main<br /><br />
+    *What it does:* Downloads changes from the internet to your computer.<br />
+    *When to use it:* When others have made changes online, and you want to update your local copy.<br />
+    *Example:* git pull origin main<br /><br />
 
 **7. git status**<br />
-    __What it does:__ Shows you what changes you've made that haven't been saved yet.<br />
-    __When to use it:__ When you want to see the current state of your project.<br />
-    __Example:__ git status<br /><br />
+    *What it does:* Shows you what changes you've made that haven't been saved yet.<br />
+    *When to use it:* When you want to see the current state of your project.<br />
+    *Example:* git status<br /><br />
