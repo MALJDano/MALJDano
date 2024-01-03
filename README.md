@@ -17,7 +17,7 @@
 - I enjoy exploring the intersection of technology and creativity in the world of UI/UX and Web Design and use it to show off my other hobbies.
 
 ## 📫 Connect with Me
-- [Instagram](https://www.instagram.com/kalatnigeli/)
+   [![Instagram](https://img.shields.io/badge/Instagram-kalatnigeli-purplestyle=flat&logo=instagram)](https://www.instagram.com/kalatnigeli/)
 
 ##
 ## Git commands: Basics
