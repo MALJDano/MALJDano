@@ -19,7 +19,7 @@
 ## 📫 Connect with Me
    [![Instagram](https://img.shields.io/badge/Follow-kalatnigeli-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kalatnigeli/)
 
-    [![Discord](https://img.shields.io/badge/chat-Maybe.%235004-5865F2?style=for-the-badge&logo=Discords)](https://discord.com/users/749889974656040984)
+    [![Discord](https://img.shields.io/badge/chat-Maybe.%235004-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/749889974656040984)
       
 
 ## Git Cheat Sheet: Basics
