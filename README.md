@@ -19,11 +19,10 @@
 ## 📫 Connect with Me
    [![Instagram](https://img.shields.io/badge/Follow-kalatnigeli-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kalatnigeli/)
 
-    [![Microsoft Teams](https://img.shields.io/badge/Message-MS_Teams-E4405F?style=for-the-badge&logo=Microsoft-Teams)](2022maljdao@live.mcl.edu.ph)
+    [![Discord](https://img.shields.io/badge/chat-Maybe.%235004-5865F2?style=for-the-badge&logo=Discords)](https://discord.com/users/749889974656040984)
       
 
-##
-## Git commands: Basics
+## Git Cheat Sheet: Basics
 **1. git init** <br />
     __What it does:__ Starts a new version control repository.<br />
     __When to use it:__ When you're starting a new project and want to use Git for version control.<br />
