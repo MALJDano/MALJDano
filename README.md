@@ -2,9 +2,9 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=MALJDano.MALJDano&color=ff55a3)
 
-# **<div align="center">💡 H E L L O !</div>**<br />
+# **<div align="center">💡 H E L L O !</div>**
 
-## 💡 About Me
+## <br />💡 About Me
 - :sparkles: I'm Ma. Angelica Lynneth J. Daño
 - 🖥 Second-year Computer Science student at Mapúa Malayan Colleges Laguna.
 - 🏫 Currently serving as the President of Junior Philippine Computer Society (JPCS) Mapúa MCL for the year 2023-2024.
