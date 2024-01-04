@@ -2,7 +2,7 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=MALJDano.MALJDano&color=ff55a3)
 
-# **<div align="center">💡 H E L L O !</div>**
+# **<div align="center">💡 H E L L O !</div>**<br />
 
 ## 💡 About Me
 - :sparkles: I'm Ma. Angelica Lynneth J. Daño
