@@ -2,8 +2,7 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=MALJDano.MALJDano&color=ff55a3)
 
-### **<div align="center">💡 H E L L O !</div>**
-
+# **<div align="center">💡 H E L L O !</div>**
 
 ## 💡 About Me
 - :sparkles: I'm Ma. Angelica Lynneth J. Daño
@@ -23,11 +22,9 @@
 ## 📫 Connect with Me
    [![Instagram](https://img.shields.io/badge/Follow-kalatnigeli-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kalatnigeli/) 
 
-[![Discord](https://img.shields.io/badge/contact-Maybe.%235004-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/749889974656040984)
+[![Discord](https://img.shields.io/badge/contact-Maybe.%235004-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/749889974656040984) 
 
-
-      
-
+##
 ## Git Cheat Sheet: Basics
 **1. git init** <br />
     *What it does:* Starts a new version control repository.<br />
