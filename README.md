@@ -27,9 +27,9 @@
 ##
 ## Git Cheat Sheet: Basics
 **1. git init** <br />
-    *What it does:* Starts a new version control repository.<br />
-    *When to use it:* When you're starting a new project and want to use Git for version control.<br />
-    *Example:* git init <br /><br />
+    * *What it does:* Starts a new version control repository.<br />
+    * *When to use it:* When you're starting a new project and want to use Git for version control.<br />
+    * *Example:* git init <br /><br />
 
 **2. git clone**<br />
     *What it does:* Copies a repository from the internet to your computer.<br />
