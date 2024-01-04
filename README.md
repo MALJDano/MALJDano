@@ -2,7 +2,7 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=MALJDano.MALJDano&color=ff55a3)
 
-## <span style="font-family: 'Times New Roman', Times, serif;">💡 HI THERE! </span>
+**<div align="center" style="font-family: 'Times New Roman', Times, serif; font-size: 32px;">💡 H E L L O !</div>**
 
 ## 💡 About Me
 - :sparkles: I'm Ma. Angelica Lynneth J. Daño
