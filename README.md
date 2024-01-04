@@ -62,11 +62,11 @@
     *Example:* git status<br /><br />
     
 **8. git log**<br />
-    *What it does: Displays a log of all committed changes, including commit messages and details.<br />
-    *When to use it: To review the history of your project and track the sequence of commits.<br />
-    *Example: git log<br /><br />
+    *What it does:* Displays a log of all committed changes, including commit messages and details.<br />
+    *When to use it:* To review the history of your project and track the sequence of commits.<br />
+    *Example:* git log<br /><br />
     
 **9. git branch**<br />
-    *What it does: Lists all the branches in your repository and highlights the current branch.<br />
-    *When to use it: When you're working on multiple features or versions concurrently, and you want to manage branches.<br />
-    *Example: git branch<br /><br />
+    *What it does:* Lists all the branches in your repository and highlights the current branch.<br />
+    *When to use it:* When you're working on multiple features or versions concurrently, and you want to manage branches.<br />
+    *Example:* git branch<br /><br />
