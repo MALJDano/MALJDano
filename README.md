@@ -4,9 +4,7 @@
 
 <div align="center">
 
-# **❗️❗️ H E L L O ! ❗️❗️**
-
-</div>
+# ** H E L L O ! ** </div>
 
 ## <br />💡 About Me
 - :sparkles: I'm Ma. Angelica Lynneth J. Daño
