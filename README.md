@@ -1,4 +1,4 @@
-[<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFuZTNxMHB5cHVnZzZvb3drZDNqYXZ3dnlrZXg4c2tsdWJ0Mmh2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46tGhizeUs4W4qtGR2/giphy.gif" alt="💡 Hi there! I'm Ma. Angelica Lynneth J. Daño" title="💡 Hi there! I'm Ma. Angelica Lynneth J. Daño" width="3000"/>](https://github.com/MALJDano/MALJDano)
+[<img src="https://i.gifer.com/7d1.giff" alt="💡 Hi there! I'm Ma. Angelica Lynneth J. Daño" title="💡 Hi there! I'm Ma. Angelica Lynneth J. Daño" width="3000"/>](https://github.com/MALJDano/MALJDano)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=MALJDano.MALJDano&color=ff55a3)
 
@@ -20,6 +20,7 @@
    [![Instagram](https://img.shields.io/badge/Follow-kalatnigeli-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kalatnigeli/) 
 
 [![Discord](https://img.shields.io/badge/contact-Maybe.%235004-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/749889974656040984)
+
 
       
 
