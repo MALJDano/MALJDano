@@ -20,16 +20,16 @@
 - I enjoy exploring the intersection of technology and creativity in the world of UI/UX and Web Design and use it to show off my other hobbies.
 
 ## 📫 Connect with Me
-   [![Instagram](https://img.shields.io/badge/Follow-kalatnigeli-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kalatnigeli/) 
+[![Instagram](https://img.shields.io/badge/Follow-kalatnigeli-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kalatnigeli/) 
 
 [![Discord](https://img.shields.io/badge/contact-Maybe.%235004-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/749889974656040984) 
 
 ##
 ## Git Cheat Sheet: Basics
 **1. git init** <br />
-    * *What it does:* Starts a new version control repository.<br />
-    * *When to use it:* When you're starting a new project and want to use Git for version control.<br />
-    * *Example:* git init <br /><br />
+    *What it does:* Starts a new version control repository.<br />
+    *When to use it:* When you're starting a new project and want to use Git for version control.<br />
+    *Example:* git init <br /><br />
 
 **2. git clone**<br />
     *What it does:* Copies a repository from the internet to your computer.<br />
