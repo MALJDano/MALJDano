@@ -1,72 +1,119 @@
-[<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JjbHhwcXdydndienFoNWdqbW5yMnA4Y25peHo4cjF3NWdoN3o3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqr9WUnw9zAFZ9bPgz/source.gif" alt=" 💡 Hi there! I'm Ma. Angelica Lynneth J. Daño" title="💡 Hi there! I'm Ma. Angelica Lynneth J. Daño" width="3000"/>](https://github.com/MALJDano/MALJDano)
+<h1 align="center">Hi 👋, I'm Ma. Angelica Lynneth J. Daño</h1>
+<h3 align="center">Computer Science Student • Data Science & Analytics • Frontend Developer</h3>
 
-![visitors](https://vbr.wocr.tk/badge?page_id=MALJDano.MALJDano&color=ff55a3)
+<p align="center">
+Passionate about building data-driven and user-friendly digital solutions.
+I enjoy combining analytics, automation, and modern UI development to create efficient and impactful systems.
+</p>
 
-# **<div align="center">💡 H E L L O !</div>**
+---
 
-## <br />💡 About Me
-- :sparkles: I'm Ma. Angelica Lynneth J. Daño
-- 🖥 Second-year Computer Science student at Mapúa Malayan Colleges Laguna.
-- 🏫 Currently serving as the President of Junior Philippine Computer Society (JPCS) Mapúa MCL for the year 2023-2024.
+## 🚀 About Me
 
-## 💼 Organization and Position
-- 🌐 Member of [Junior Philippine Computer Society (JPCS)](https://www.facebook.com/jpcs.mmcl.official).
-- 🎓 President of JPCS Mapúa MCL (2023-2024).
+🎓 BS Computer Science major in Data Science & Analytics (Expected 2026)  
+📊 Interested in Data Analysis, Software Engineering, and Quality Assurance  
+⚛️ Currently building a modern React-based portfolio with smooth UI interactions  
+📈 Experienced in data visualization, process automation, and technical support  
+🎯 Goal: Contribute to innovative teams through data-driven and user-centered solutions  
 
-## 🌐 Interests
-- UI/UX and Web Design enthusiast.
+---
 
-## ⚡ Fun Fact
-- I enjoy exploring the intersection of technology and creativity in the world of UI/UX and Web Design and use it to show off my other hobbies.
+## 🧠 Tech Stack
 
-## 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/Follow-kalatnigeli-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kalatnigeli/) 
+### Programming & Development
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
 
-[![Discord](https://img.shields.io/badge/contact-Maybe.%235004-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/749889974656040984) 
+### Data & Analytics
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-##
-## Git Cheat Sheet: Basics
-**1. git init** <br />
-    *What it does:* Starts a new version control repository.<br />
-    *When to use it:* When you're starting a new project and want to use Git for version control.<br />
-    *Example:* git init <br /><br />
+### Tools & Technologies
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white"/>
+</p>
 
-**2. git clone**<br />
-    *What it does:* Copies a repository from the internet to your computer.<br />
-    *When to use it:* When you want to download a project from a website (like GitHub) to your computer.<br />
-    *Example:* git clone https://github.com/example/repository.git<br /><br />
+---
 
-**3. git add**<br />
-    *What it does:* Adds changes to the list of things Git will save.<br />
-    *When to use it:* After making changes to your project, you want to save them in Git.<br />
-    *Example:* git add file.txt<br /><br />
+## 🌟 Featured Project
 
-**4. git commit**<br />
-    *What it does:* Saves your changes into Git as a "checkpoint" you can return to.<br />
-    *When to use it:* After adding changes, you're ready to save them officially.<br />
-    *Example:* git commit -m "Add initial version of file.txt"<br /><br />
+### 📄 DocuChain — Academic Record Digitization System
+**Thesis Project Leader (2025–2026)**
 
-**5. git push**<br />
-    *What it does:* Uploads your saved changes to the internet.<br />
-    *When to use it:* When you're ready to share your changes with others on platforms like GitHub.<br />
-    *Example:* git push origin main<br /><br />
+DocuChain is a document digitization platform integrating computer vision and blockchain concepts to improve academic record management.
 
-**6. git pull**<br />
-    *What it does:* Downloads changes from the internet to your computer.<br />
-    *When to use it:* When others have made changes online, and you want to update your local copy.<br />
-    *Example:* git pull origin main<br /><br />
+Key Contributions:
+- Designed and developed frontend interface
+- Built account management module
+- Conducted data analysis and validation workflows
+- Coordinated development tasks and project milestones
 
-**7. git status**<br />
-    *What it does:* Shows you what changes you've made that haven't been saved yet.<br />
-    *When to use it:* When you want to see the current state of your project.<br />
-    *Example:* git status<br /><br />
-    
-**8. git log**<br />
-    *What it does:* Displays a log of all committed changes, including commit messages and details.<br />
-    *When to use it:* To review the history of your project and track the sequence of commits.<br />
-    *Example:* git log<br /><br />
-    
-**9. git branch**<br />
-    *What it does:* Lists all the branches in your repository and highlights the current branch.<br />
-    *When to use it:* When you're working on multiple features or versions concurrently, and you want to manage branches.<br />
-    *Example:* git branch<br /><br />
+---
+
+## 💼 Experience
+
+### Student Assistant — Mapúa MCL Center for Learning and Information Resources
+2023–2025
+- Automated data collection processes using Microsoft Power Automate
+- Provided technical and front desk support
+- Improved reporting efficiency through automation
+
+### Student Assistant — Office for Quality Management
+2025
+- Performed data analysis and created visual reports
+- Assisted in scheduling and workflow coordination
+
+### Student Assistant — Instructional Facilities Office
+2026
+- Conducted computer troubleshooting and laboratory maintenance
+
+---
+
+## 🏆 Leadership & Achievements
+
+👩‍💻 President — Junior Philippine Computer Society (2023–2024)  
+🎤 Event Host & 4th Year Representative (2024–2026)  
+
+Achievements:
+- President’s Lister (2022–2023)
+- Dean’s Lister (2022–2025)
+- Best in Research (Senior High School)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MALJDano&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALJDano&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 angelicalynneth.work@gmail.com  
+📍 Calamba City, Laguna, Philippines  
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile ✨
+</p>
